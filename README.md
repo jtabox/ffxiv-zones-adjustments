@@ -10,6 +10,7 @@ The available fixes/adjustments are the following:
 
 For details see https://forums.nexusmods.com/index.php?showtopic=12190758/#entry117011953.
 
+**If you have an idea for more fixes/adjustments that could be added feel free to open an issue and I'll add them.**
 
 ### To install and use:
 - Just download the zip file from [Releases](https://github.com/jtabox/ffxiv-zones-adjustments/releases/tag/v0.2.0) and install it as an addon in Blender [normally](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html).
