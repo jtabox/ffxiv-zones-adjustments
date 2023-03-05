@@ -12,7 +12,7 @@ For details see https://forums.nexusmods.com/index.php?showtopic=12190758/#entry
 
 
 ### To install and use:
-- Just download the zip file from [Releases](releases/tag/v0.2.0) and install it as an addon in Blender [normally](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html).
+- Just download the zip file from [Releases](https://github.com/jtabox/ffxiv-zones-adjustments/releases/tag/v0.2.0) and install it as an addon in Blender [normally](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html).
 - When you activate it there should be a tab named `XIVZones` in the right side panel, with 4 buttons for each of the functions above.
 
 
