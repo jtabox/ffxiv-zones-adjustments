@@ -8,7 +8,7 @@ The available fixes/adjustments are the following:
 - Changes Normal Maps' Shaders to World Space.
 - Sets Normal Map Shader Strength to 50%.
 
-For details see https://forums.nexusmods.com/index.php?showtopic=12190758/#entry117011953.
+For details see the posts (here)[https://forums.nexusmods.com/index.php?showtopic=12190758/#entry117011953].
 
 **If you have an idea for more fixes/adjustments that could be added feel free to open an issue and I'll add them.**
 
